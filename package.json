@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maihuynhtruc/JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maihuynhtruc/JS/issues"
+  },
+  "homepage": "https://github.com/maihuynhtruc/JS#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
