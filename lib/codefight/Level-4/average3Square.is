@@ -1,0 +1,16 @@
+function average3Square(array)
+{
+    var rs=0,sum=0;
+    for(var i=0;i<array[0].length;i++)
+   
+       { for(var j=0; j<array.length;j++)
+        { 
+            sum+=array[i][j];
+        }
+         rs=Math.floor(sum/9);
+       }
+     return rs;
+}
+average3Square([[1, 1, 1], 
+         [1, 7, 1], 
+         [1, 1, 1]])
